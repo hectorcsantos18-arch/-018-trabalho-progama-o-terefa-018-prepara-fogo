@@ -1,0 +1,14 @@
+/media/hector/JASER 16/progamação/exercisos/fogo/obj/Debug/net10.0/fogo.GeneratedMSBuildEditorConfig.editorconfig
+/media/hector/JASER 16/progamação/exercisos/fogo/obj/Debug/net10.0/fogo.AssemblyInfoInputs.cache
+/media/hector/JASER 16/progamação/exercisos/fogo/obj/Debug/net10.0/fogo.AssemblyInfo.cs
+/media/hector/JASER 16/progamação/exercisos/fogo/obj/Debug/net10.0/fogo.csproj.CoreCompileInputs.cache
+/media/hector/JASER 16/progamação/exercisos/fogo/bin/Debug/net10.0/fogo
+/media/hector/JASER 16/progamação/exercisos/fogo/bin/Debug/net10.0/fogo.deps.json
+/media/hector/JASER 16/progamação/exercisos/fogo/bin/Debug/net10.0/fogo.runtimeconfig.json
+/media/hector/JASER 16/progamação/exercisos/fogo/bin/Debug/net10.0/fogo.dll
+/media/hector/JASER 16/progamação/exercisos/fogo/bin/Debug/net10.0/fogo.pdb
+/media/hector/JASER 16/progamação/exercisos/fogo/obj/Debug/net10.0/fogo.dll
+/media/hector/JASER 16/progamação/exercisos/fogo/obj/Debug/net10.0/refint/fogo.dll
+/media/hector/JASER 16/progamação/exercisos/fogo/obj/Debug/net10.0/fogo.pdb
+/media/hector/JASER 16/progamação/exercisos/fogo/obj/Debug/net10.0/fogo.genruntimeconfig.cache
+/media/hector/JASER 16/progamação/exercisos/fogo/obj/Debug/net10.0/ref/fogo.dll

@@ -1,0 +1,9 @@
+Console.WriteLine("feito para linux");
+Console.WriteLine("napoleão bonaparte- humems preparem para atirar!");
+Console.WriteLine("{você se prepara?}");
+Console.ReadLine();
+Console.WriteLine("apontando...");
+Thread.Sleep(2000);
+Console.WriteLine("mirando...");
+Thread.Sleep(2000);
+Console.WriteLine("fogo!");
